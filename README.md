@@ -1,1 +1,1 @@
-# Sample
+# reactMinimal
